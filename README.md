@@ -29,3 +29,5 @@
 - [Thinking, Fast and Slow _by Daniel Kahneman_](self-improvement/ThinkingFastAndSlow_DanielKahneman.pdf)
 - [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life _by Mark Manson_](self-improvement/TheSubtleArtOfNotGivingAF*ck_MarkManson.epub)
 - [The Information: A History, A Theory, A Flood _by James Gleick_](self-improvement/TheInformation_JamesGleick.epub)
+- [12 Rules for Life: An Antidote to Chaos _by Jordan B. Peterson_](self-improvement/12RulesForLife_JordanBPeterson.epub)
+- [Beyond Order: 12 More Rules for Life _by Jordan B. Peterson_](self-improvement/BeyondOrder_JordanBPeterson.epub)
