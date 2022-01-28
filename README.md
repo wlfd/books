@@ -32,5 +32,13 @@
 - [12 Rules for Life: An Antidote to Chaos _by Jordan B. Peterson_](self-improvement/12RulesForLife_JordanBPeterson.epub)
 - [Beyond Order: 12 More Rules for Life _by Jordan B. Peterson_](self-improvement/BeyondOrder_JordanBPeterson.epub)
 
+### Business Academic
+- [The Future of Business [Fifth Edition]](business-academic/TheFutureOfBusiness5thEd_NelsonCollege(2016).pdf)
+- [Organizational Behaviour [10th Edition]](business-academic/OrganizationalBehaviour10thEd-Pearson(2020).pdf)
+- [Organizational Behaviour: Concepts, Controversies, Applications [Seventh Canadian Edition]](business-academic/OrganizationalBehaviourConceptsControversiesApplications_PearsonCanada(2015).pdf)
+- [Management Information System: Managing the Digital Firm [Seventh Edition]](business-academic/ManagementInformationSystemsManagingTheDigitalFirm(7thEd).pdf)
+
+
+
 ### Novels
 - [The Lost Girls of Camp Forevermore _by Kim Fu_](novels/TheLostGirlsOfCampForevermore_KimFu.epub)
